@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Forja APE",
+  "version": "0.1",
+  "content_scripts": [
+    {
+      "matches": [
+       "*://forja.tn/serie/*"
+     ],
+      "js": ["main.js"]
+    }
+  ]
+}
