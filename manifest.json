@@ -7,7 +7,7 @@
       "matches": [
        "*://forja.tn/serie/*"
      ],
-      "js": ["main.js"]
+      "js": ["jquery.min.js","main.js"]
     }
   ]
 }
